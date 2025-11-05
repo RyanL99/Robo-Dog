@@ -1,0 +1,134 @@
+{
+  "pca9685": [
+    {
+      "address": "0x40",
+      "frequency": 50
+    },
+    {
+      "address": "0x41",
+      "frequency": 50
+    }
+  ],
+  "joints": [
+    {
+      "name": "leg0",
+      "driver": 0,
+      "channel": 0,
+      "min_us": 500,
+      "max_us": 2500,
+      "rest_deg": 90,
+      "min_deg": 0,
+      "max_deg": 180
+    },
+    {
+      "name": "leg1",
+      "driver": 0,
+      "channel": 1,
+      "min_us": 500,
+      "max_us": 2500,
+      "rest_deg": 90,
+      "min_deg": 0,
+      "max_deg": 180
+    },
+    {
+      "name": "leg2",
+      "driver": 0,
+      "channel": 2,
+      "min_us": 500,
+      "max_us": 2500,
+      "rest_deg": 90,
+      "min_deg": 0,
+      "max_deg": 180
+    },
+    {
+      "name": "leg3",
+      "driver": 0,
+      "channel": 3,
+      "min_us": 500,
+      "max_us": 2500,
+      "rest_deg": 90,
+      "min_deg": 0,
+      "max_deg": 180
+    },
+    {
+      "name": "leg4",
+      "driver": 0,
+      "channel": 4,
+      "min_us": 500,
+      "max_us": 2500,
+      "rest_deg": 90,
+      "min_deg": 0,
+      "max_deg": 180
+    },
+    {
+      "name": "leg5",
+      "driver": 0,
+      "channel": 5,
+      "min_us": 500,
+      "max_us": 2500,
+      "rest_deg": 90,
+      "min_deg": 0,
+      "max_deg": 180
+    },
+    {
+      "name": "leg6",
+      "driver": 1,
+      "channel": 0,
+      "min_us": 500,
+      "max_us": 2500,
+      "rest_deg": 90,
+      "min_deg": 0,
+      "max_deg": 180
+    },
+    {
+      "name": "leg7",
+      "driver": 1,
+      "channel": 1,
+      "min_us": 500,
+      "max_us": 2500,
+      "rest_deg": 90,
+      "min_deg": 0,
+      "max_deg": 180
+    },
+    {
+      "name": "leg8",
+      "driver": 1,
+      "channel": 2,
+      "min_us": 500,
+      "max_us": 2500,
+      "rest_deg": 90,
+      "min_deg": 0,
+      "max_deg": 180
+    },
+    {
+      "name": "leg9",
+      "driver": 1,
+      "channel": 3,
+      "min_us": 500,
+      "max_us": 2500,
+      "rest_deg": 90,
+      "min_deg": 0,
+      "max_deg": 180
+    },
+    {
+      "name": "leg10",
+      "driver": 1,
+      "channel": 4,
+      "min_us": 500,
+      "max_us": 2500,
+      "rest_deg": 90,
+      "min_deg": 0,
+      "max_deg": 180
+    },
+    {
+      "name": "leg11",
+      "driver": 1,
+      "channel": 5,
+      "min_us": 500,
+      "max_us": 2500,
+      "rest_deg": 90,
+      "min_deg": 0,
+      "max_deg": 180
+    }
+  ]
+}
